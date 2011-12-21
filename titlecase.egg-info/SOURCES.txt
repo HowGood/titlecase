@@ -1,0 +1,10 @@
+README
+setup.py
+titlecase/__init__.py
+titlecase/tests.py
+titlecase.egg-info/PKG-INFO
+titlecase.egg-info/SOURCES.txt
+titlecase.egg-info/dependency_links.txt
+titlecase.egg-info/entry_points.txt
+titlecase.egg-info/not-zip-safe
+titlecase.egg-info/top_level.txt
